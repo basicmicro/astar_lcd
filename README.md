@@ -1,0 +1,1 @@
+The code in this repository is for use with the A-Star microcontroller and a RoboClaw motor controller. The code controls a motor channel while also reading and writing the encoder count to the optional LCD screen of the A-Star board. The Application Note that accompanies this code can be [found here](https://resources.basicmicro.com/roboclaw-encoders-and-the-a-star-lcd/).
